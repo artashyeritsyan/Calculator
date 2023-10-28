@@ -11,6 +11,7 @@ input: "6*2"
 output: 12
 ```
 Bonus
+```
 Add logic for the following operators` ^, %.
-
+```
 
